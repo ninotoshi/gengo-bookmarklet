@@ -1,2 +1,1 @@
-[Hello World!](1)
-(1):javascript:alert('Hello World')
+[Hello](javascript:function my_bookmarklet(\){alert('Hello World'\);}my_bookmarklet(\);)
