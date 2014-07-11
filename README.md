@@ -6,8 +6,7 @@ The text will appear as an entry of the order list.
 
 ## How do I install it?
 
-1. Show the bookmark bar of your browser.
-2. Drag the link in [this file](link.html) to the bookmark bar.
+Follow the [instructions](http://ninotoshi.github.io/gengo/bookmarklet.html).
 
 ## How do I use it?
 
