@@ -1,1 +1,1 @@
-[Hello](javascript:(function(\){alert('Hello World'\);}\)(\);)
+[Hello](javascript:(function(\\){alert('Hello World'\\);}\\)(\\);)
