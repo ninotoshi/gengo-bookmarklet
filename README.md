@@ -7,7 +7,7 @@ The text will appear as an entry of the order list.
 ## How do I install it?
 
 1. Show the bookmark bar of your browser.
-2. Drag [this link](javascript:(function(\){var t=((window.getSelection&&window.getSelection(\)\)||(document.getSelection&&document.getSelection(\)\)||(document.selection&&document.selection.createRange&&document.selection.createRange(\).text\)\).toString(\)||document.body.innerText;var f=document.createElement("form"\);f.action="https://gengo.com/order/receive_job_post/";f.method="post";var i=document.createElement("input"\);i.type="text";i.name="body_src";i.value=t;f.appendChild(i\);document.body.appendChild(f\);f.submit(\);}\)(\);) to the bookmark bar.
+2. Drag the link in [this file](link.html) to the bookmark bar.
 
 ## How do I use it?
 
