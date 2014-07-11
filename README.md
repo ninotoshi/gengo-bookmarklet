@@ -1,6 +1,6 @@
 gengo-bookmarklet
 =================
-This bookmarklet captures a selected text (or the entire text if not selected) on the browser
+This bookmarklet captures a selected text (or the entire text if not selected) in the browser
 and post it to the page of the Gengo order form.
 The text will appear as an entry of the order list.
 
