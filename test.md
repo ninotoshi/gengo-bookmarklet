@@ -1,2 +1,2 @@
-[Hello World!][1]
-[1]:javascript:alert('Hello World')
+[Hello World!](1)
+(1):javascript:alert('Hello World')
